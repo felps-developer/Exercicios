@@ -1,0 +1,17 @@
+D:\Users\Felipe Moreira\Documents\Projeto-FazPay\Projeto-Target\Exercicios\obj\Debug\net6.0\ExerciciosTarget.csproj.AssemblyReference.cache
+D:\Users\Felipe Moreira\Documents\Projeto-FazPay\Projeto-Target\Exercicios\obj\Debug\net6.0\ExerciciosTarget.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Felipe Moreira\Documents\Projeto-FazPay\Projeto-Target\Exercicios\obj\Debug\net6.0\ExerciciosTarget.AssemblyInfoInputs.cache
+D:\Users\Felipe Moreira\Documents\Projeto-FazPay\Projeto-Target\Exercicios\obj\Debug\net6.0\ExerciciosTarget.AssemblyInfo.cs
+D:\Users\Felipe Moreira\Documents\Projeto-FazPay\Projeto-Target\Exercicios\obj\Debug\net6.0\ExerciciosTarget.csproj.CoreCompileInputs.cache
+D:\Users\Felipe Moreira\Documents\Projeto-FazPay\Projeto-Target\Exercicios\bin\Debug\net6.0\ExerciciosTarget.exe
+D:\Users\Felipe Moreira\Documents\Projeto-FazPay\Projeto-Target\Exercicios\bin\Debug\net6.0\ExerciciosTarget.deps.json
+D:\Users\Felipe Moreira\Documents\Projeto-FazPay\Projeto-Target\Exercicios\bin\Debug\net6.0\ExerciciosTarget.runtimeconfig.json
+D:\Users\Felipe Moreira\Documents\Projeto-FazPay\Projeto-Target\Exercicios\bin\Debug\net6.0\ExerciciosTarget.dll
+D:\Users\Felipe Moreira\Documents\Projeto-FazPay\Projeto-Target\Exercicios\bin\Debug\net6.0\ExerciciosTarget.pdb
+D:\Users\Felipe Moreira\Documents\Projeto-FazPay\Projeto-Target\Exercicios\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Users\Felipe Moreira\Documents\Projeto-FazPay\Projeto-Target\Exercicios\obj\Debug\net6.0\Exercici.5EC8A844.Up2Date
+D:\Users\Felipe Moreira\Documents\Projeto-FazPay\Projeto-Target\Exercicios\obj\Debug\net6.0\ExerciciosTarget.dll
+D:\Users\Felipe Moreira\Documents\Projeto-FazPay\Projeto-Target\Exercicios\obj\Debug\net6.0\refint\ExerciciosTarget.dll
+D:\Users\Felipe Moreira\Documents\Projeto-FazPay\Projeto-Target\Exercicios\obj\Debug\net6.0\ExerciciosTarget.pdb
+D:\Users\Felipe Moreira\Documents\Projeto-FazPay\Projeto-Target\Exercicios\obj\Debug\net6.0\ExerciciosTarget.genruntimeconfig.cache
+D:\Users\Felipe Moreira\Documents\Projeto-FazPay\Projeto-Target\Exercicios\obj\Debug\net6.0\ref\ExerciciosTarget.dll
